@@ -1,3 +1,3 @@
-# InnovaOne Air Open Data
+# InnovaOne ML Open Data
 
-Public air quality and measurements data used in ML experiments and scientific projects.
+Public air & water quality and measurements data used in ML experiments and scientific projects.
